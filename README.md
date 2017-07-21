@@ -11,9 +11,9 @@ Latest version: [v0.1.0](https://github.com/simeg/alfred-workflow-metacritic/arc
 0. Open `metacritic.alfredworkflow` by double-clicking it or dragging it into Alfred
 
 ## Usage
-``
+```
 mc <search term>
-``
+```
 The `<search term>` corresponds to what you would enter if you were searching on the Metacritic website. After inputting a search term and pressing enter, a new tab in your default browser will open the result page on Metacritic's website.
 
 ## License
